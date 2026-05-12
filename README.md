@@ -32,9 +32,3 @@ EduNext adalah platform manajemen materi kursus online yang dirancang dengan ant
 
 ### Prasyarat
 - Docker & Docker Compose sudah terinstal di komputer Anda.
-
-### Langkah-langkah
-1. **Clone Repositori**
-   ```bash
-   git clone [https://github.com/username/edu-next-platform.git](https://github.com/username/edu-next-platform.git)
-   cd edu-next-platform
